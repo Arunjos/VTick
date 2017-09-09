@@ -8,11 +8,11 @@ The name of this app is VTick and it can do the following
    The arrows and its colors should come on the screen will be depends on the value of the rate. 
    If it is positive (means no - sign) the arrow will be UP in GREEN color, if the rate is shows "-" sign, 
    it should be RED arrow down and if the rate is zero, the double side arrow will come in yellow color. 
-   and all the data will be in common color that we can choose (Red, Green or Yellow). 
-   Also the software need to update the excel file in every 10 mins time.
+   and all the data will be in common color that we can choose (Red, Green or Yellow).
+   Also the software need to update the excel file in every 10 mins time
 -> It can control the speed and the direction of the movement and the speed. It has three different speed levels.
 -> Support Online/Offline mode(future scope)
--> It support excel files, picture files (jpeg, bmp, giffetc), .swf files (Shockwave files).
+-> It support excel files, picture files (jpeg, bmp, giffetc), .swf files (Shockwave files)
 
 ### Application Area! ###
 
